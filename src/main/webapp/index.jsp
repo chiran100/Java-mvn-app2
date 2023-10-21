@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>www.loksaieta.com</title>
+    <title>www.chiranjeev.com</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
-      <p class="text-center"> My Web App - Java Maven App Demo - POLL SCM Demo!........</p>
+      <p class="text-center"> My Web App - Java Maven App Demo - Chiranjeev!........</p>
   </div>
 </body>
 </html>
